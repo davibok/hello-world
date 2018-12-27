@@ -1,4 +1,4 @@
 # hello-world
 
 This repository is a bit about myself.
-My name is Davi, and im new to programming, I like to play games and read books.
+My name is Davi, I'm new to programming and I want to learn a lot more about technology and computer science.
